@@ -102,12 +102,15 @@ if(r==-1):
 else:
     print("Element found at index: ",r)
 ~~~
-## Sample Input and Output
+## Sample Input and Output:
+![sample input and output](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/78a13c8b-cff6-4500-a501-b6c3c9f54660)
 
+## Output:
+![array linear search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/aa6c3ab0-d1e7-4f52-8250-41ca3cf32b48)
 
+![array bin iter search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/70493203-3e7a-42bc-b0aa-62215c7540fd)
 
+![array bin rec search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/b7c9658e-02dc-461c-bfd2-dce7b1645471)
 
-
-
-## Result
+## Result:
 Thus the linear search and binary search algorithm is implemented using python programming.

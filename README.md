@@ -106,11 +106,14 @@ else:
 ![sample input and output](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/78a13c8b-cff6-4500-a501-b6c3c9f54660)
 
 ## Output:
-![array linear search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/aa6c3ab0-d1e7-4f52-8250-41ca3cf32b48)
+i)	#Use a linear search method to match the item in a list.
+![linear search ](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/e05ea8e6-268b-4646-b975-38b244567721)
 
-![array bin iter search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/70493203-3e7a-42bc-b0aa-62215c7540fd)
+ii)	# Find the element in a list using Binary Search(Iterative Method).
+![binary search iterative](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/a96b72aa-5176-4b58-a032-16a9631e4ca1)
 
-![array bin rec search](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/b7c9658e-02dc-461c-bfd2-dce7b1645471)
+iii)	# Find the element in a list using Binary Search (recursive Method).
+![binary search recursive](https://github.com/Vikaash19/Search-Algorithm/assets/148514589/b1c63ce5-0e90-4b19-8d26-ab9d8bbeda32)
 
 ## Result:
 Thus the linear search and binary search algorithm is implemented using python programming.
